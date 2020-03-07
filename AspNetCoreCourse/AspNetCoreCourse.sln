@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1022
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "0 - Presentation", "0 - Presentation", "{5F7EC4A1-AAC0-40C0-88F2-9E67ED9F82D7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 - Application", "1 - Application", "{F50E1C54-F93F-493B-8023-BD3AB9B4BD26}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2 - Domain", "2 - Domain", "{3CC4E6BE-4DC9-4376-AE45-8D37661C81F2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3 - Infra", "3 - Infra", "{C1D70584-2512-4F69-9BAC-19FE9717FEAB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetCoreCourse.Presentation", "AspNetCoreCourse.Presentation\AspNetCoreCourse.Presentation.csproj", "{F4AC2DFD-47C7-4CF1-B30C-EE2AB239E5AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4AC2DFD-47C7-4CF1-B30C-EE2AB239E5AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4AC2DFD-47C7-4CF1-B30C-EE2AB239E5AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4AC2DFD-47C7-4CF1-B30C-EE2AB239E5AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4AC2DFD-47C7-4CF1-B30C-EE2AB239E5AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{F4AC2DFD-47C7-4CF1-B30C-EE2AB239E5AE} = {5F7EC4A1-AAC0-40C0-88F2-9E67ED9F82D7}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5484B99C-B50F-4CB8-AF41-5E5E4CB34674}
+	EndGlobalSection
+EndGlobal
