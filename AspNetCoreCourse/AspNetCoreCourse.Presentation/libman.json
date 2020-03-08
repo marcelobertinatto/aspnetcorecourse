@@ -1,5 +1,40 @@
 {
   "version": "1.0",
   "defaultProvider": "cdnjs",
-  "libraries": []
+  "libraries": [
+    {
+      "destination": "wwwroot/externals",
+      "library": "angular-ui@0.4.0",
+      "files": [ "angular-ui-ieshiv.min.js", "angular-ui.min.css", "angular-ui.min.js" ]
+    },
+    {
+      "destination": "wwwroot/externals",
+      "library": "fullcalendar@4.2.0",
+      "files": [ "core/locales/pt-br.js", "bootstrap/main.min.css", "google-calendar/main.min.js", "moment/main.min.js" ]
+    },
+    {
+      "destination": "wwwroot/externals",
+      "library": "datatables@1.10.19",
+      "files": [ "css/dataTables.bootstrap.min.css", "css/dataTables.bootstrap4.min.css" ]
+    },
+    {
+      "destination": "wwwroot/externals",
+      "library": "jqueryui@1.12.1",
+      "files": [ "jquery-ui.min.js", "jquery-ui.theme.min.css", "jquery-ui.structure.min.css" ]
+    },
+    {
+      "destination": "wwwroot/externals",
+      "library": "adapterjs@0.15.4"
+    },
+    {
+      "provider": "cdnjs",
+      "library": "materialize@1.0.0",
+      "destination": "wwwroot/externals/10up-sanitize.css/"
+    },
+    {
+      "provider": "cdnjs",
+      "library": "10up-sanitize.css@11.0.0",
+      "destination": "wwwroot/externals/"
+    }
+  ]
 }
