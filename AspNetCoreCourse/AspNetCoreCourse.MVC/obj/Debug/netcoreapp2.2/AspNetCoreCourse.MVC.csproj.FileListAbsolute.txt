@@ -5,6 +5,7 @@ E:\Marcelo\Sandbox\GIT\AspNetCoreCourse\AspNetCoreCourse\AspNetCoreCourse.MVC\bi
 E:\Marcelo\Sandbox\GIT\AspNetCoreCourse\AspNetCoreCourse\AspNetCoreCourse.MVC\bin\Debug\netcoreapp2.2\AspNetCoreCourse.MVC.pdb
 E:\Marcelo\Sandbox\GIT\AspNetCoreCourse\AspNetCoreCourse\AspNetCoreCourse.MVC\bin\Debug\netcoreapp2.2\AspNetCoreCourse.MVC.Views.dll
 E:\Marcelo\Sandbox\GIT\AspNetCoreCourse\AspNetCoreCourse\AspNetCoreCourse.MVC\bin\Debug\netcoreapp2.2\AspNetCoreCourse.MVC.Views.pdb
+E:\Marcelo\Sandbox\GIT\AspNetCoreCourse\AspNetCoreCourse\AspNetCoreCourse.MVC\obj\Debug\netcoreapp2.2\AspNetCoreCourse.MVC.csprojAssemblyReference.cache
 E:\Marcelo\Sandbox\GIT\AspNetCoreCourse\AspNetCoreCourse\AspNetCoreCourse.MVC\obj\Debug\netcoreapp2.2\AspNetCoreCourse.MVC.csproj.CoreCompileInputs.cache
 E:\Marcelo\Sandbox\GIT\AspNetCoreCourse\AspNetCoreCourse\AspNetCoreCourse.MVC\obj\Debug\netcoreapp2.2\AspNetCoreCourse.MVC.RazorAssemblyInfo.cache
 E:\Marcelo\Sandbox\GIT\AspNetCoreCourse\AspNetCoreCourse\AspNetCoreCourse.MVC\obj\Debug\netcoreapp2.2\AspNetCoreCourse.MVC.RazorAssemblyInfo.cs
@@ -16,6 +17,12 @@ E:\Marcelo\Sandbox\GIT\AspNetCoreCourse\AspNetCoreCourse\AspNetCoreCourse.MVC\ob
 E:\Marcelo\Sandbox\GIT\AspNetCoreCourse\AspNetCoreCourse\AspNetCoreCourse.MVC\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
 E:\Marcelo\Sandbox\GIT\AspNetCoreCourse\AspNetCoreCourse\AspNetCoreCourse.MVC\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
 E:\Marcelo\Sandbox\GIT\AspNetCoreCourse\AspNetCoreCourse\AspNetCoreCourse.MVC\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+E:\Marcelo\Sandbox\GIT\AspNetCoreCourse\AspNetCoreCourse\AspNetCoreCourse.MVC\obj\Debug\netcoreapp2.2\Razor\Views\Shared\PartialViews\_footer.g.cshtml.cs
+E:\Marcelo\Sandbox\GIT\AspNetCoreCourse\AspNetCoreCourse\AspNetCoreCourse.MVC\obj\Debug\netcoreapp2.2\Razor\Views\Shared\PartialViews\_header.g.cshtml.cs
+E:\Marcelo\Sandbox\GIT\AspNetCoreCourse\AspNetCoreCourse\AspNetCoreCourse.MVC\obj\Debug\netcoreapp2.2\Razor\Views\Shared\PartialViews\_pageNavBar.g.cshtml.cs
+E:\Marcelo\Sandbox\GIT\AspNetCoreCourse\AspNetCoreCourse\AspNetCoreCourse.MVC\obj\Debug\netcoreapp2.2\Razor\Views\Shared\PartialViews\_rightSideBar.g.cshtml.cs
+E:\Marcelo\Sandbox\GIT\AspNetCoreCourse\AspNetCoreCourse\AspNetCoreCourse.MVC\obj\Debug\netcoreapp2.2\Razor\Views\Shared\PartialViews\_scripts.g.cshtml.cs
+E:\Marcelo\Sandbox\GIT\AspNetCoreCourse\AspNetCoreCourse\AspNetCoreCourse.MVC\obj\Debug\netcoreapp2.2\Razor\Views\Shared\PartialViews\_sideBar.g.cshtml.cs
 E:\Marcelo\Sandbox\GIT\AspNetCoreCourse\AspNetCoreCourse\AspNetCoreCourse.MVC\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
 E:\Marcelo\Sandbox\GIT\AspNetCoreCourse\AspNetCoreCourse\AspNetCoreCourse.MVC\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
 E:\Marcelo\Sandbox\GIT\AspNetCoreCourse\AspNetCoreCourse\AspNetCoreCourse.MVC\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
