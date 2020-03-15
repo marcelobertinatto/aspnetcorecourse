@@ -5,10 +5,33 @@
     <AspNetCoreHostingModel>InProcess</AspNetCoreHostingModel>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Content Remove="wwwroot\bundle\generalScripts.min.js" />
+    <Content Remove="wwwroot\bundle\jsCustom.js" />
+    <Content Remove="wwwroot\bundle\jsCustom.min.js" />
+    <Content Remove="wwwroot\bundle\plugins.js" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <_ContentIncludedByDefault Remove="wwwroot\bundle\generalScripts.min.js" />
+    <_ContentIncludedByDefault Remove="wwwroot\bundle\jsCustom.js" />
+    <_ContentIncludedByDefault Remove="wwwroot\bundle\jsCustom.min.js" />
+    <_ContentIncludedByDefault Remove="wwwroot\bundle\main.min.css" />
+    <_ContentIncludedByDefault Remove="wwwroot\bundle\plugins.js" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\bundle\generalScripts.min.js" />
+    <None Include="wwwroot\bundle\jsCustom.js" />
+    <None Include="wwwroot\bundle\jsCustom.min.js" />
+    <None Include="wwwroot\bundle\plugins.js" />
+  </ItemGroup>
+
 
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.App" />
     <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.2.0" PrivateAssets="All" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="2.2.3" />
   </ItemGroup>
 
 </Project>
